@@ -1,0 +1,11 @@
+{
+  "name": "terminalhuutis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "APACHE",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "dateformat": "^3.0.3",
+    "ws": "^5.1.0"
+  }
+}
